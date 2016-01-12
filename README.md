@@ -38,7 +38,7 @@ Key: *   = Required for full functionality.
   \ "WheelTiny.cfg"			-> A set of two wheels which use track steering.  Not widely used, but suitable for small rovers.
 
  \ Plugins
-  \ "KF_plugin.dll"			-> Our main plugin.
+  \ "KF_plugin.dll"			-> The main plugin.
 
  \ Settings
   \ "KFGlobals.txt"			-> This has all of our global definitions and settings.
@@ -48,7 +48,9 @@ Key: *   = Required for full functionality.
 
  \ Sounds
   \ "APU.ogg"				-> Engine sound effect for the APU module.
-  \ "GroundSkid.ogg"		-> A sound to be palyed when skidding over the terrain.
-  \ "repulsor2.ogg"			-> A cool new repulsor running effect.
-  \ "TyreSqueel.ogg"		-> An unused, but to be used someday sound effect for tire squeeling.
-  \ "wheel2.ogg"			-> A wheel running effect.
+  \ "GroundSkid.ogg"		-> A sound to be played when skidding over the terrain.
+  \ "repulsor2.ogg"			-> A cool new repulsor-running sound effect.
+  \ "TyreSqueel.ogg"		-> An unused, but to be used someday, sound effect for tire squeeling.
+  \ "wheel2.ogg"			-> A wheel-running sound effect.
+
+License: Detailed in the "License" file distributed with the plugin.
